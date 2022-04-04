@@ -4,4 +4,4 @@
 
 Les codes sont dans le jupyter notebook.
 
-Il y est joint aussi un compte-rendu en PDF et sa versoin Word.
+Il y est joint aussi un compte-rendu en PDF.
